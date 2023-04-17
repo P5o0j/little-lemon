@@ -1,0 +1,6 @@
+.testimonials-card {
+    display: flex;
+    gap: 50px;
+    margin-top: 20px;
+    text-align: center;
+}
